@@ -17,7 +17,7 @@ repository = 'https://github.com/m7142yosuke/english2kana'
 
 [tool.poetry.dependencies]
 python = "^3.11"
-numpy = "^1.24.0"
+numpy = "^2.0.0"
 tensorflow = "^2.18.0"
 mojimoji = "^0.0.13"
 huggingface-hub = "^0.26.5"
